@@ -27,6 +27,10 @@ Turn DJ mixes, radio shows and podcasts into timestamped tracklists.<br>
 <a href="https://apps.apple.com/gb/app/cueid-tracklists-for-dj-mixes/id6762413993"><img src="https://img.shields.io/badge/App_Store-000?style=flat&logo=apple&logoColor=white" alt="Download on the App Store"></a>
 <br>
 
+────────────────────
+
+<br>
+
 <a href="https://kirigoe.uk/kanji-detective/"><img src="https://kirigoe.uk/apps/kanji-detective/icon.webp" width="88" alt="Kanji Detective icon"></a>
 
 ### Kanji Detective
@@ -38,6 +42,10 @@ Solve a daily kanji mystery. Every wrong guess is a clue.<br>
 <a href="https://apps.apple.com/gb/app/kanji-detective-japanese-jlpt/id6816779165"><img src="https://img.shields.io/badge/App_Store-000?style=flat&logo=apple&logoColor=white" alt="Download on the App Store"></a>
 <br>
 
+────────────────────
+
+<br>
+
 <a href="https://kirigoe.uk/remux-doctor/"><img src="https://kirigoe.uk/apps/remux-doctor/icon-v2.webp" width="88" alt="Remux Doctor icon"></a>
 
 ### Remux Doctor
@@ -47,6 +55,10 @@ Know what's in every 4K remux, check it against your target and fix it losslessl
 
 <a href="https://kirigoe.uk/remux-doctor/"><img src="https://img.shields.io/badge/Website-7c6bff?style=flat&logo=safari&logoColor=white" alt="Website"></a>
 <img src="https://img.shields.io/badge/App_Store-coming_soon-555?style=flat&logo=apple&logoColor=white" alt="Coming soon to the Mac App Store">
+<br>
+
+────────────────────
+
 <br>
 
 <a href="https://kitprice.org"><img src="https://kirigoe.uk/apps/kitprice/icon.webp" width="88" alt="Kitprice icon"></a>
